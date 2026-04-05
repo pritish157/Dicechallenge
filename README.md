@@ -6,7 +6,7 @@ A lightweight browser-based Dice Challenge game built using JavaScript. The app 
 
 ## 🚀 Live Demo
 
-👉 https://pritish157.github.io/dicechallenge/
+👉https://pritish157.github.io/Dicechallenge/
 
 ---
 
